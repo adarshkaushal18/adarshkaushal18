@@ -1,6 +1,6 @@
 ### Hi there, I'm Adarsh 👋
 
--🔭 I’m currently studying Electronics and Instrumentation Engineering at R V College of Engineering, Bengaluru.
+- 🔭 I’m currently studying Electronics and Instrumentation Engineering at R V College of Engineering, Bengaluru.
 - 🌱 I’m currently learning dsa, machine learning algorithms and javascript.
 
 <!--
