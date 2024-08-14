@@ -21,5 +21,5 @@
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/adarshkaushal1/">
 - Struggling on <a href="https://leetcode.com/u/adarsh_k1729/">LeetCode</a> 
-- Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/adarshkaushal1/">LinkedIn</a> 
 
