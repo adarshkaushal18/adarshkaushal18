@@ -5,8 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/adarshkaushal18?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=adarshkaushal18&color=brightgreen">  
 
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQEQ5H9MwB-Ldg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699704836181?e=1738195200&v=beta&t=ZGHDtih0uBBFGoeb_VpSEc1olrNlHrAZtf1X5I27aa4)
-
 
 ## 👨🏻‍💻 &nbsp;About Me
 
